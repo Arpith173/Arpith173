@@ -1,7 +1,7 @@
 # Hi, I'm Arpith 👋
 
 ## About Me
-Third-year Electronics & VLSI Design Engineering student passionate about building digital systems that run on actual hardware. I work with FPGAs, write Verilog, and explore processor architecture.
+Electronics & VLSI Design Engineering student passionate about building digital systems that run on actual hardware. I work with FPGAs, write Verilog, and explore the world of VLSI Technology.
 
 ## 🔧 What I Work With
 - **HDL:** Verilog
